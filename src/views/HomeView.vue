@@ -138,8 +138,10 @@ const updateUser = (data) => {
   editUserRef.value.open(data.row);
 };
 
+// 撤销按钮操作
 const cancel = () => {
   tableRef.value.clearSelection();
+  pageData.selectText = "";
 };
 
 const onAddItem = () => {
