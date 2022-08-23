@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkinterview"]=self["webpackChunkinterview"]||[]).push([[443],{6206:function(n,e,r){r.r(e),r.d(e,{default:function(){return o}});var t=r(3396);const u={class:"about"},i=(0,t._)("h1",null,"刘秀辉",-1),c=[i];function s(n,e){return(0,t.wg)(),(0,t.iD)("div",u,c)}var a=r(89);const f={},l=(0,a.Z)(f,[["render",s]]);var o=l}}]);
