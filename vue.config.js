@@ -8,7 +8,7 @@ const resolve = function (dir) {
 module.exports = defineConfig({
   transpileDependencies: true,
   publicPath: process.env.NODE_ENV === "production" ? "./" : "./",
-  outputDir: "dist",
+  outputDir: "docs",
   assetsDir: "static",
   lintOnSave: true, // 是否开启eslint保存检测
   productionSourceMap: false, // 是否在构建生产包时生成sourcdeMap
